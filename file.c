@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 int main(){
-	printf("我是神1");
-	printf("我很强");
+
+	printf("你不强");
+	
 	return 0;
 }
